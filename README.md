@@ -50,7 +50,7 @@ Si desea entrenar el modelo usted solo debe ejecutar este comando
 ## Nota
 - Una vez entrenado el modelo se guardara los pesos en un archivo .pth
 - Si desea implementar sus propios dialogos, es libre de modficiar el [intents.json](https://github.com/alexliqu09/MikoBOT/blob/main/intents.json)
-
+- Si desea implementar su bot en discord le recomiendo ver este [tutorial](https://www.youtube.com/watch?v=iZcDF3FGOcA&t=1001s).
 ## Algunas imagenes de la implementación
 <center>
 <img src="src\Imagen_1.jpg"  width="400"/>
