@@ -1,6 +1,11 @@
 import discord
 from chat import chat 
-llave = "PONER APLICATION ID"# Usted puede verlo aquí : https://discord.com/developers/applications
+
+'''
+    Con este archivo podremos realizar la comunicación de con Discord
+    en llave se debe poner el ID dado por Discord Developers.
+'''
+llave = "PONER APLICATION_ID"# Usted puede verlo aquí : https://discord.com/developers/applications
 cliente = discord.Client()
 @cliente.event
 async def  on_message(mensaje):
