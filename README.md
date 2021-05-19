@@ -37,6 +37,10 @@ conda create env
 pip install -r requirements.txt.
 ```
 3. Clona este repositorio:
+```
+https://github.com/alexliqu09/MikoBOT.git
+```
+
 
 ## 👨🏽‍💻 Autores
 
