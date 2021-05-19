@@ -165,4 +165,4 @@ data = {
 
 FILE = "data.pth"
 torch.save(data, FILE)
-print(f'El entrenamiento no ha terminado tu archivo {FILE} se ha guardado.')
+print(f'El entrenamiento ha terminado tu archivo {FILE} se ha guardado.')

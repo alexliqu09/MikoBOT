@@ -7,6 +7,10 @@
 ## Resumen 
 * Para nuestra primera versión del trabajo se buscó aprender un poco del estado del arte de los chatbots para ello nos basamos  en el tutorial de [Python Engineer](https://www.youtube.com/watch?v=RpWeNzfSUHw) y una vez entrenado intentamos desplegar el bot en la plataforma de discord siguiendo el tutorial de [Cursos y asesorías de programación](https://www.youtube.com/watch?v=iZcDF3FGOcA&t=1001s).
 
+<center>
+<img src="src\Pipeline.png"  width="600"/>
+</center>
+
 ## 🆕 Actualización
  
  - 19/05/2021 :
