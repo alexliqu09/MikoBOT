@@ -49,7 +49,15 @@ Si desea entrenar el modelo usted solo debe ejecutar este comando
 ```
 ## Nota
 - Una vez entrenado el modelo se guardara los pesos en un archivo .pth
-- Si desea poner sus propios dialogos, es libre de modficiar el [intents.json](https://github.com/alexliqu09/MikoBOT/blob/main/intents.json)
+- Si desea implementar sus propios dialogos, es libre de modficiar el [intents.json](https://github.com/alexliqu09/MikoBOT/blob/main/intents.json)
+
+## Algunas imagenes de la implementación
+<center>
+<img src="src\Imagen_1.jpg"  width="400"/>
+</center>
+<center>
+<img src="src\Imagen_2.jpg"  width="400"/>
+</center>
 
 ## 👨🏽‍💻 Autores
 
