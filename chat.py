@@ -39,7 +39,7 @@ def chat(sentece):
     Retorna:
             - No retornaré el mensaje realizado por el bot.
     """
-    bot_name = "Miko"
+    bot_name = "MikoBOT"
     sentence = preprocess_dataset.tokenize(sentece)
     x = preprocess_dataset.bag_word(sentence, all_words)
     x = x.reshape(1, x.shape[0])
