@@ -56,12 +56,12 @@ Si desea entrenar el modelo usted solo debe ejecutar este comando
 - Si desea implementar sus propios dialogos, es libre de modficiar el [intents.json](https://github.com/alexliqu09/MikoBOT/blob/main/intents.json)
 - Si desea implementar su bot en discord le recomiendo ver este [tutorial](https://www.youtube.com/watch?v=iZcDF3FGOcA&t=1001s).
 ## Algunas imagenes de la implementación
-<center>
+<p align="center">
 <img src="src\Imagen_1.jpg"  width="400"/>
-</center>
-<center>
+</p align="center">
+<p align="center">
 <img src="src\Imagen_2.jpg"  width="400"/>
-</center>
+</p align="center">
 
 ## 👨🏽‍💻 Autores
 
