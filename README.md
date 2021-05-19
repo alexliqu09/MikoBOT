@@ -41,6 +41,15 @@ pip install -r requirements.txt.
 https://github.com/alexliqu09/MikoBOT.git
 ```
 
+# Entrenamiento 
+
+Si desea entrenar el modelo usted solo debe ejecutar este comando
+```
+ python train.py
+```
+## Nota
+- Una vez entrenado el modelo se guardara los pesos en un archivo .pth
+- Si desea poner sus propios dialogos, es libre de modficiar el [intents.json](https://github.com/alexliqu09/MikoBOT/blob/main/intents.json)
 
 ## 👨🏽‍💻 Autores
 
@@ -55,3 +64,4 @@ https://github.com/alexliqu09/MikoBOT.git
 
 - Agradecimeinto al canal de [Cursos y asesorías de programación](https://www.youtube.com/channel/UCwJWMXB5iJNmbhSmX3soIhQ) sin sus tutoriales este repositorio no estaria finalizado.
 
+- Agradecimientos al [repositorio](https://github.com/HiroForYou/PyTorch-Chatbot) de [HiroForYou](https://github.com/HiroForYou) sin este repositorio este trabajo no seguria adelante.
