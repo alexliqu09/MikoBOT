@@ -36,11 +36,11 @@ El contenido de la aplicación.
 ```
 https://github.com/alexliqu09/MikoBOT.git
 ```
-2. Instalemos el entorno
+2. Instalaremos el entorno
 ```
 conda create env
 ```
-3. Instalamos las dependicias con el comando
+3. Instalaremos las dependicias con el comando
 ```
 pip install -r requirements.txt.
 ```
