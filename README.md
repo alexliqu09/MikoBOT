@@ -40,7 +40,7 @@ https://github.com/alexliqu09/MikoBOT.git
 ```
 conda create env
 ```
-3. Instalaremos las dependicias con el comando
+3. Instalaremos las dependencias con el comando
 ```
 pip install -r requirements.txt.
 ```
